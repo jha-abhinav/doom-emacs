@@ -124,7 +124,7 @@ You can now proceed with the [[#mu-and-mu4e][mu and mu4e]] section.
 
 ** mbsync
 The steps needed to set up =mu4e= with =mbsync= are very similar to the ones for
-[[#offlineimap][offlineimap]].
+[[#offlineimap][offlineimap]]. My mbsync config can be found at [[https://github.com/hlissner/dotfiles/blob/be0dce5dae8f3cbafaac0cc44269d84b4a742c46/shell/mu/mbsyncrc][mbsync]].
 
 Start with writing a ~\~/.mbsyncrc~. An example for GMAIL can be found on
 [[http://pragmaticemacs.com/emacs/migrating-from-offlineimap-to-mbsync-for-mu4e/][pragmaticemacs.com]]. A non-GMAIL example is available as a gist [[https://gist.github.com/agraul/60977cc497c3aec44e10591f94f49ef0][here]]. The [[http://isync.sourceforge.net/mbsync.html][manual
